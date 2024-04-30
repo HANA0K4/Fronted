@@ -1,0 +1,44 @@
+{
+    "datospeso": [
+        {
+            "id": 1,
+            "idnodo": 4,
+            "peso": 350,
+            "fechahora": "2024-04-25T20:28:32.000Z"
+        },
+        {
+            "id": 1,
+            "idnodo": 5,
+            "peso": 350,
+            "fechahora": "2024-04-25T20:28:32.000Z"
+        }
+    ],
+    "datosinfrarrojo": [
+        {
+            "id": 1,
+            "idnodo": 4,
+            "actividad": 12,
+            "fechahora": "2024-04-25T20:28:45.000Z"
+        },
+        {
+            "id": 2,
+            "idnodo": 5,
+            "actividad": 13,
+            "fechahora": "2024-04-25T20:31:00.000Z"
+        }
+    ],
+    "datosultrasonido": [
+        {
+            "id": 1,
+            "idnodo": 4,
+            "distancia": 25,
+            "fechahora": "2024-04-25T20:29:03.000Z"
+        },
+        {
+            "id": 2,
+            "idnodo": 5,
+            "distancia": 32,
+            "fechahora": "2024-04-25T20:32:10.000Z"
+        }
+    ]
+}

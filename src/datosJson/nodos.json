@@ -1,0 +1,15 @@
+{
+    "usuario": {
+        "id": 1,
+        "nombre": "Usuario1",
+        "email": "usuario1@example.com"
+    },
+    "nodos": [
+        {
+            "idnodo": 4
+        },
+        {
+            "idnodo": 5
+        }
+    ]
+}

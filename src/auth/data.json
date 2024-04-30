@@ -1,0 +1,27 @@
+{
+    "users": [
+        {
+            "email": "root",
+            "password": "root",
+            "nodos": [
+                {
+                    "idnodo": "1"
+                },
+                {
+                    "idnodo": "2"
+                }
+            ]
+        },
+        {
+            "email": "admin",
+            "password": "admin","nodos": [
+                {
+                    "idnodo": "3"
+                },
+                {
+                    "idnodo": "4"
+                }
+            ]
+        }
+    ]
+}
